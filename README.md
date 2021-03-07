@@ -1,4 +1,4 @@
-# Bristol-Myers-Squibb-Molecular-Translation
+# Bristol-Myers-Squibb-Molecular-Translation (Omni)
 This is an attempt in a Kaggle competition https://www.kaggle.com/c/bms-molecular-translation
 
 # Important files
