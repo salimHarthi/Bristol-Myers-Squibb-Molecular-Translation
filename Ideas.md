@@ -10,10 +10,11 @@
 ## Some helpfull links
 
 1. [International Chemical Identification - Wikipedia](https://en.wikipedia.org/wiki/International_Chemical_Identifier)
-2. [Bristol-Myers Squibb Molecular Translation: Approaches (EDA, Denoise)](https://www.kaggle.com/maksymshkliarevskyi/bms-moleculartranslation-approaches-eda-denoise) 
-3. [BMS: Super Cool EDA](https://www.kaggle.com/maunish/bms-super-cool-eda)
-4. [Understanding InChI format and Arrange Train Label](https://www.kaggle.com/wineplanetary/understanding-inchi-format-and-arrange-train-label)
-5. [Pytorch ResNet+LSTM with attention](https://www.kaggle.com/pasewark/pytorch-resnet-lstm-with-attention)
-6. [🎊 🎉 Research Papers in Deep Learning and Chemical Structures (Image Data)🌟 ✨](https://www.kaggle.com/c/bms-molecular-translation/discussion/223218)
-7. [💥💥Github Resources + Pre-Trained Models for Deep Learning + Chemical Structures 🔥🔥](https://www.kaggle.com/c/bms-molecular-translation/discussion/223223)
-8. 
+2. [What on earth is InChi](https://iupac.org/100/stories/what-on-earth-is-inchi/)
+3. [InChI, the IUPAC International Chemical Identifier](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-015-0068-4)
+4. [Bristol-Myers Squibb Molecular Translation: Approaches (EDA, Denoise)](https://www.kaggle.com/maksymshkliarevskyi/bms-moleculartranslation-approaches-eda-denoise) 
+5. [BMS: Super Cool EDA](https://www.kaggle.com/maunish/bms-super-cool-eda)
+6. [Understanding InChI format and Arrange Train Label](https://www.kaggle.com/wineplanetary/understanding-inchi-format-and-arrange-train-label)
+7. [Pytorch ResNet+LSTM with attention](https://www.kaggle.com/pasewark/pytorch-resnet-lstm-with-attention)
+8. [🎊 🎉 Research Papers in Deep Learning and Chemical Structures (Image Data)🌟 ✨](https://www.kaggle.com/c/bms-molecular-translation/discussion/223218)
+9. [💥💥Github Resources + Pre-Trained Models for Deep Learning + Chemical Structures 🔥🔥](https://www.kaggle.com/c/bms-molecular-translation/discussion/223223)
