@@ -1,11 +1,12 @@
 # Random Ideas
 
- * Let us choose a framework, Pytorch / Tensorflow 2.0.
+ * Let us choose a framework, Pytorch / Tensorflow 2.0. @salimHarthi(I vote for TF with keras)
  * We might use CNN for the images and RNN for the strings?
  * We can use LSTM for CNNs. 
  * OpenCV for Image interpertation.
  * We should use python for this.
  * Where should we test the model? Cloud, local machines ?
+ * We could use [Tensorbord](https://www.tensorflow.org/tensorboard/get_started)
 
 ## Some helpfull links
 
