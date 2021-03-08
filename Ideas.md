@@ -18,3 +18,4 @@
 7. [Pytorch ResNet+LSTM with attention](https://www.kaggle.com/pasewark/pytorch-resnet-lstm-with-attention)
 8. [🎊 🎉 Research Papers in Deep Learning and Chemical Structures (Image Data)🌟 ✨](https://www.kaggle.com/c/bms-molecular-translation/discussion/223218)
 9. [💥💥Github Resources + Pre-Trained Models for Deep Learning + Chemical Structures 🔥🔥](https://www.kaggle.com/c/bms-molecular-translation/discussion/223223)
+10. [ChemGrapher: Optical Graph Recognition of Chemical Compounds by Deep Learning](https://arxiv.org/abs/2002.09914)
