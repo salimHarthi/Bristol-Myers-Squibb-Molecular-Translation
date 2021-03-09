@@ -8,7 +8,7 @@
  * Where should we test the model? Cloud, local machines ?
  * We could use [Tensorbord](https://www.tensorflow.org/tensorboard/get_started) @ectro I agree but we can use this later. Focus on the problem first.
  * Found this explanation for image extraction pipline [Letter Retrieval](https://www.kaggle.com/thomaskonstantin/letter-retrieval-molecular-translation).
- * 
+ * link 12 is very important to our understanding 
 
 ## Some helpfull links
 
@@ -23,3 +23,4 @@
 9. [💥💥Github Resources + Pre-Trained Models for Deep Learning + Chemical Structures 🔥🔥](https://www.kaggle.com/c/bms-molecular-translation/discussion/223223)
 10. [ChemGrapher: Optical Graph Recognition of Chemical Compounds by Deep Learning](https://arxiv.org/abs/2002.09914)
 11. [DECIMER: towards deep learning for chemical image recognition](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-020-00469-w.pdf)
+12. [Understand dataset with molecular 3D models](https://www.kaggle.com/nayuts/understand-dataset-with-molecular-3d-models)
